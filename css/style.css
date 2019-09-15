@@ -31,7 +31,7 @@ header li{
 	display: inline-block;
 }
 
-header li:hover{
+header li:hover, #stages a:hover{
 	color: grey;
 }
 
@@ -41,10 +41,6 @@ header li:hover{
 
 #stages a{
 	color: black;
-}
-
-#stages a:hover{
-	color: grey;
 }
 
 .anchor{
