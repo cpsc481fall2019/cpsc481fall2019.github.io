@@ -1,5 +1,6 @@
 body{
 	background-color: white;
+	font-family: monospace;
 }
 
 header{
@@ -25,7 +26,6 @@ a{
 
 ul{
 	padding: 0px;
-	list-style-type: none;
 }
 
 header li{
@@ -36,3 +36,14 @@ header li:hover{
 	color: grey;
 }
 
+#stages h2{
+	text-decoration: underline;
+}
+
+#stages a{
+	color: black;
+}
+
+#stages a:hover{
+	color: grey;
+}
